@@ -27,7 +27,7 @@ namespace HouseRentingSystem.Tests.UnitTests
         [Test]
         public void UserFullName_ShouldReturnCorrectResult()
         {
-            // Arrange
+            // Arrange    //Some random text for test
 
             // Act: invoke the service method with valid renter id
             var result = this.userService.UserFullName(this.Renter.Id);

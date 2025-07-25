@@ -9653,11 +9653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
       "projectName": "HouseRentingSystem.Tests",
-      "projectPath": "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9678,11 +9678,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+            "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
             },
-            "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\7.Back-End_Test_Automation07.2025\\2.Continuous Integration (CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj"
+            "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\house\\hrs\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj"
             }
           }
         }
